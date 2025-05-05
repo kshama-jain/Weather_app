@@ -31,5 +31,6 @@ This project is built with React, TypeScript, Vite, and Tailwind CSS.
 Weather data is provided by OpenMeteo API.
 
 
-![image](frontend.png)
+![image](frontend .png)
+![image](frontend2.png)
 
